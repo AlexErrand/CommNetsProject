@@ -6,7 +6,7 @@ public class ClientTest
     {
         Client application;
         if (args.length == 0)
-            application = new Client("192.168.56.1"); //setting local ip address
+            application = new Client("127.0.0.1"); //setting local ip address
         else
             application = new Client(args[0]);
 
