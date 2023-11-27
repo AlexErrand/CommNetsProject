@@ -12,7 +12,8 @@ Key features:
 
 ## Installation
 
-Go to the following github page and pull the project:
+Go to the following github page and pull the project: https://github.com/AlexErrand/CommNetsProject.
+
 Once pulled, you can use localhost (127.0.0.1) or use a Local Network IP Address to have multiple users. You can find your Local Network IP
 Address by going to your command prompt and typing in "ipconfig". By default, the application is set to localhost. To start the client and server, 
 you must first start the server, otherwise the client will return an error and close immediately due to no server being present. An application layer handshake 
